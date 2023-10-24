@@ -15,4 +15,9 @@ footer {
   color: white;
   text-align: center;
 }
+
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+  font-family: 'Permanent Marker', cursive;
+}
 </style>
